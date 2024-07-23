@@ -1,0 +1,39 @@
+fieldset{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+legend{
+    padding-top: 10px;   
+}
+input{
+    border-radius: 5px;
+    padding:20px;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(255, 177, 135);
+    color: white;
+    font-size: 20px;
+}
+button{
+    background-color: rgb(255, 166, 0);
+    padding: 5px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.container{
+    background-color: bisque;
+    width: 700px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-left: 400px;
+    
+}
+form{
+    margin-top: 80px;
+}
+body{
+    background-color:beige;
+}
